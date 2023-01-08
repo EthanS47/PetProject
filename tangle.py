@@ -14,6 +14,15 @@
 #
 #    You should have received a copy of the GNU General Public License
 #    along
+#***************************************************************************************
+#    Title: tanglegram
+#    Author:  Philipp Schlegel
+#    Date: Nov 6, 2021
+#    Code version: 0.2.0
+#    Availability: https://pypi.org/project/tanglegram/
+#
+#**************************************************************************************/
+#    Note: minor changes are done
 
 
 import matplotlib.pyplot as plt
